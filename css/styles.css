@@ -1,0 +1,12 @@
+body
+{
+    margin: 0;
+}
+#canvas
+{
+    display: block;
+    margin: 30px auto;
+    transform: rotate(8deg);
+
+    /*outline: 1px solid lightgrey;*/
+}
